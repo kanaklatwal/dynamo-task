@@ -1,0 +1,13 @@
+Access Log Summary
+
+Total Requests: 6
+
+Clients:
+- 10.0.0.5: 2 requests
+- 192.168.0.1: 2 requests
+- 192.168.0.2: 2 requests
+
+Popular Pages:
+- /index.html: 3 requests
+- /about.html: 2 requests
+- /api/login: 1 request
